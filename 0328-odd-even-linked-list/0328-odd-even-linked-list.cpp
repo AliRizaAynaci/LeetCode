@@ -17,8 +17,8 @@ public:
         
         ListNode *odd = head, *even = head -> next, *evenhead = even;
         while(even != NULL && even -> next != NULL){
-            odd -> next = even -> next;
-            odd = odd -> next;
+            odd -> next = even -> next; // Connect all odds
+            odd = odd -> next; // Connect all even
             even -> next = odd -> next;
             even = even -> next;
             
