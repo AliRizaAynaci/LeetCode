@@ -10,21 +10,17 @@
  * };
  */
 class Solution {
-    int sum;
 public:
-    void dfs(TreeNode* root, int low, int high){
-        if(!root) return;
-        if(root -> val >= low && root -> val <= high)
-            sum += root -> val;
-        if(root -> val > low)
-            dfs(root -> left, low, high);
-        if(root -> val < high)
-            dfs(root -> right, low, high);
-    }
-    int rangeSumBST(TreeNode* root, int low, int high) {
-        
-        sum = 0;
-        dfs(root, low, high);
-        return sum;
+    int rangeSumBST(TreeNode* root, int L, int R) {
+        int sumofRange(0);
+        stack<TreeNode*> stack;
+        stack.push(root);
+        while(!stack.empty()){
+            TreeNode* node = stack.top(); stack.pop();
+            if(node->val>=L && node->val<=R) sumofRange+=node->val;
+            if(node->val > L) {if(node->left) stack.push(node->left);}
+            if(node->val < R) {if(node->right) stack.push(node->right);}
+        }
+        return sumofRange;
     }
 };
