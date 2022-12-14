@@ -1,1 +1,1 @@
-My C++, Python3, Java solution in LeetCode problems.
+My LeetCode solution with Python3 and C++.
