@@ -7,6 +7,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0064-minimum-path-sum) |
+| [1331-path-with-maximum-gold](https://github.com/AliRizaAynaci/LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,6 +16,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0064-minimum-path-sum) |
+| [1331-path-with-maximum-gold](https://github.com/AliRizaAynaci/LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## Tree
 |  |
 | ------- |
@@ -45,4 +47,8 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [1331-path-with-maximum-gold](https://github.com/AliRizaAynaci/LeetCode/tree/master/1331-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
