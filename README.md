@@ -1,5 +1,5 @@
 # LeetCode
-This repo is created for tracking the LeetCode process by using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)..
+This repo is created for tracking the LeetCode process by using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
