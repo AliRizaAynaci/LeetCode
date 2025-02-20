@@ -21,7 +21,7 @@
  */
 class Solution {
 public:
-     bool isSubPath(ListNode* head, TreeNode* root) {
+    bool isSubPath(ListNode* head, TreeNode* root) {
        return dfs(root, head);
     }
     // ** DFS + DFS **
