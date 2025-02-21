@@ -22,43 +22,41 @@
 class Solution {
 public:
     bool isSubPath(ListNode* head, TreeNode* root) {
-       return dfs(root, head);
-    }
-    // ** DFS + DFS **
-    bool dfs(TreeNode* root, ListNode* head) {
-        if (root == nullptr) return false;
-        if (matches(root, head)) return true;
-        return dfs(root->left, head) || dfs(root->right, head);
+        return dfs(head, root);
     }
 
-    bool matches(TreeNode* root, ListNode* head) {
-        if (head == nullptr) return true;
-        if (root == nullptr || root->val != head->val) return false;
-        // head->val == root->val
-        return matches(root->left, head->next) || matches(root->right, head->next);
-    } 
+    bool dfs(ListNode* llist, TreeNode* node) {
+        if (node == nullptr) return false;
+        if (llist->val == node->val && bfs(llist, node)) return true;
+        return dfs(llist, node->left) || dfs(llist, node->right);
+    }
 
+    bool bfs(ListNode* llist, TreeNode* node) {
+        queue<TreeNode*> q;
+        q.push(node);
+        ListNode* dummy = llist->next;
+        while (!q.empty() && dummy != nullptr) {
+            int size = q.size();
+            for (int i = 0; i < size; i++) {
+                TreeNode* curr = q.front(); q.pop();
+                if (curr->left && curr->left->val == dummy->val) q.push(curr->left);
+                if (curr->right && curr->right->val == dummy->val) q.push(curr->right);
+            }
+            if (!q.empty()) dummy = dummy->next;
+        }
+        return dummy == nullptr;
+    }
 
-    // ** DFS + BFS **
-    // bool dfs(TreeNode* root, ListNode* head) {
-    //     if (root == nullptr) return false;
-    //     if (root->val == head->val && bfs(root, head)) return true;
-    //     return dfs(root->left, head) || dfs(root->right, head);
+    // bool dfs(ListNode* llist, TreeNode* node) {
+    //     if (node == nullptr) return false;
+    //     if (llist == nullptr || matches(llist, node)) return true;
+    //     return dfs(llist, node->left) || dfs(llist, node->right);
     // }
 
-    // bool bfs(TreeNode* root, ListNode* head) {
-    //     queue<TreeNode*> q;
-    //     q.push(root);
-    //     ListNode* curr = head->next;
-    //     while (!q.empty() && curr != nullptr) {
-    //         int size = q.size();
-    //         for (int i = 0; i < size; i++) {
-    //             TreeNode* node = q.front(); q.pop();
-    //             if (node->left && node->left->val == curr->val) q.push(node->left);
-    //             if (node->right && node->right->val == curr->val) q.push(node->right);
-    //         }
-    //         if (!q.empty()) curr = curr->next;
-    //     }
-    //     return curr == nullptr;
+    // bool matches(ListNode* llist, TreeNode* node) {
+    //     if (llist == nullptr) return true;
+    //     if (node == nullptr || llist->val != node->val) return false;
+    //     // we know llist->val = node->val after this line
+    //     return matches(llist->next, node->left) || matches(llist->next, node->right);
     // }
 };
