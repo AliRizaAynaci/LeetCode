@@ -14,6 +14,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AliRizaAynaci/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Matrix
@@ -75,5 +76,10 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AliRizaAynaci/LeetCode/tree/master/0062-unique-paths) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AliRizaAynaci/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AliRizaAynaci/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
