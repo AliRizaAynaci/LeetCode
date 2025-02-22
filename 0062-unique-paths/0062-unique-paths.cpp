@@ -1,4 +1,8 @@
 class Solution {
+    // Time Complexity : O(N * M)
+    // Space Complexity :
+    //          Solution 1 -> O(N * M) where N is the size of columns and M is the size of rows
+    //          Solution 2 -> O(N), where is the N size of columns
 public:
     // int uniquePaths(int m, int n) {
     //     vector<vector<int>> dp(m, vector<int>(n));
