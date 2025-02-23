@@ -10,6 +10,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0200-number-of-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
 | [1331-path-with-maximum-gold](https://github.com/AliRizaAynaci/LeetCode/tree/master/1331-path-with-maximum-gold) |
+| [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AliRizaAynaci/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
@@ -24,6 +25,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0200-number-of-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
 | [1331-path-with-maximum-gold](https://github.com/AliRizaAynaci/LeetCode/tree/master/1331-path-with-maximum-gold) |
+| [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 ## Tree
 |  |
 | ------- |
@@ -44,6 +46,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -62,6 +65,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0200-number-of-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
+| [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -75,6 +79,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | ------- |
 | [0200-number-of-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
+| [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 ## Math
 |  |
 | ------- |
