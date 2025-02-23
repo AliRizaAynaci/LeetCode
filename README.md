@@ -45,6 +45,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
+| [0813-all-paths-from-source-to-target](https://github.com/AliRizaAynaci/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -65,6 +66,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0200-number-of-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
+| [0813-all-paths-from-source-to-target](https://github.com/AliRizaAynaci/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 ## Linked List
 |  |
@@ -73,6 +75,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Backtracking
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/AliRizaAynaci/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/AliRizaAynaci/LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## Union Find
 |  |
@@ -97,4 +100,5 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AliRizaAynaci/LeetCode/tree/master/0133-clone-graph) |
+| [0813-all-paths-from-source-to-target](https://github.com/AliRizaAynaci/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
