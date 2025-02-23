@@ -1,5 +1,15 @@
 class Solution {
 private:
+    /**
+     * Breadth-First Search (BFS) Approach
+     * ----------------------------------
+     * - Uses a queue to explore the grid level by level (iterative).
+     * - Processes all neighboring land ('1') before moving to the next level.
+     * - Marks visited land as '0' to avoid revisiting.
+     * 
+     * Time Complexity: O(M × N) → Every cell is visited once.
+     * Space Complexity: O(min(M, N)) → At most, one row/column can be in the queue.
+     */
     void bfs(vector<vector<char>>& grid, int i, int j, int m, int n) {
         queue<pair<int, int>> q;
         q.push({i, j});
@@ -18,6 +28,16 @@ private:
         }
     }
 
+    /**
+     * Depth-First Search (DFS) Approach
+     * ---------------------------------
+     * - Uses recursion to explore deeply before backtracking.
+     * - Moves in one direction until it can't continue, then backtracks.
+     * - Marks visited land as '0' to avoid revisiting.
+     * 
+     * Time Complexity: O(M × N) → Every cell is visited once.
+     * Space Complexity: O(M × N) in the worst case (if all land is connected, stack grows deep).
+     */
     void dfs(vector<vector<char>>& grid, int i, int j, int m, int n) {
         // 1) out of bounds
         // 2) seen
