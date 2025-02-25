@@ -13,23 +13,6 @@ public:
         }
         return i == name.size(); 
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         /*
         unordered_map<char, int> nameMap;
         for (char ch : name) {
