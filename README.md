@@ -6,6 +6,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AliRizaAynaci/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/0200-number-of-islands) |
@@ -118,6 +119,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/AliRizaAynaci/LeetCode/tree/master/0133-clone-graph) |
 ## Graph
 |  |
