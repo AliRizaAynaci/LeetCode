@@ -17,16 +17,23 @@ private:
 
 public:
     int islandPerimeter(vector<vector<int>>& grid) {
-        if (grid.size() == 0) return 0;
         int n = grid.size(), m = grid[0].size();
-        int count = 0;
+        int perimeter = 0;
+
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (grid[i][j] == 1) {
-                    dfs(grid, i, j, m, n, count);
+                    // Her kara hücresi için 4 kenar başlangıçta sayılır
+                    perimeter += 4;
+                    
+                    // Eğer solunda bir kara hücresi varsa, ortak kenar düşmeli
+                    if (j > 0 && grid[i][j - 1] == 1) perimeter -= 2;
+                    
+                    // Eğer yukarısında bir kara hücresi varsa, ortak kenar düşmeli
+                    if (i > 0 && grid[i - 1][j] == 1) perimeter -= 2;
                 }
             }
         }
-        return count;
+        return perimeter;
     }
 };
