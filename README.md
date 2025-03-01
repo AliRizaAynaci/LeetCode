@@ -16,6 +16,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0463-island-perimeter](https://github.com/AliRizaAynaci/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0854-making-a-large-island) |
+| [1019-squares-of-a-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/AliRizaAynaci/LeetCode/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/AliRizaAynaci/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1331-path-with-maximum-gold](https://github.com/AliRizaAynaci/LeetCode/tree/master/1331-path-with-maximum-gold) |
@@ -146,6 +147,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/AliRizaAynaci/LeetCode/tree/master/0164-maximum-gap) |
+| [1019-squares-of-a-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/AliRizaAynaci/LeetCode/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/AliRizaAynaci/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 ## Counting Sort
@@ -156,6 +158,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0961-long-pressed-name](https://github.com/AliRizaAynaci/LeetCode/tree/master/0961-long-pressed-name) |
+| [1019-squares-of-a-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
