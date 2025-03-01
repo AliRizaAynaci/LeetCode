@@ -23,6 +23,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [1331-path-with-maximum-gold](https://github.com/AliRizaAynaci/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AliRizaAynaci/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2551-apply-operations-to-an-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AliRizaAynaci/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
@@ -165,6 +166,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | ------- |
 | [0961-long-pressed-name](https://github.com/AliRizaAynaci/LeetCode/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2551-apply-operations-to-an-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -181,4 +183,5 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0054-spiral-matrix) |
+| [2551-apply-operations-to-an-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
