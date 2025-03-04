@@ -1,4 +1,7 @@
 class Solution {
+    // Time Complexity : O(N * M), where N is size of grid's rows and M is size of grid's columns
+    // Space Complexity : O(N * M), because we call the recursive function throughout the grid
+    // and it use the stack for every recursive call
 private:
     int getArea(vector<vector<int>>& grid, int i, int j, int m, int n) {
         if (i < 0 || j < 0 || i >= m || j >= n || grid[i][j] < 1) {
