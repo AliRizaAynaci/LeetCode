@@ -127,6 +127,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AliRizaAynaci/LeetCode/tree/master/0062-unique-paths) |
+| [1069-confusing-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/1069-confusing-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AliRizaAynaci/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Combinatorics
 |  |
