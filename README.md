@@ -146,6 +146,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0076-minimum-window-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/AliRizaAynaci/LeetCode/tree/master/0133-clone-graph) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Graph
@@ -192,6 +193,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | ------- |
 | [0076-minimum-window-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0961-long-pressed-name](https://github.com/AliRizaAynaci/LeetCode/tree/master/0961-long-pressed-name) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/2884-length-of-the-longest-valid-substring) |
@@ -213,6 +215,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | ------- |
 | [0076-minimum-window-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/2884-length-of-the-longest-valid-substring) |
 <!---LeetCode Topics End-->
