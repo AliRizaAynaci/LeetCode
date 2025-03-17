@@ -17,6 +17,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0422-valid-word-square](https://github.com/AliRizaAynaci/LeetCode/tree/master/0422-valid-word-square) |
 | [0463-island-perimeter](https://github.com/AliRizaAynaci/LeetCode/tree/master/0463-island-perimeter) |
+| [0487-max-consecutive-ones-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0490-the-maze](https://github.com/AliRizaAynaci/LeetCode/tree/master/0490-the-maze) |
 | [0624-maximum-distance-in-arrays](https://github.com/AliRizaAynaci/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
@@ -37,6 +38,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0064-minimum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0487-max-consecutive-ones-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -216,6 +218,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0076-minimum-window-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0487-max-consecutive-ones-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/2884-length-of-the-longest-valid-substring) |
 <!---LeetCode Topics End-->
