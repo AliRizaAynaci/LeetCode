@@ -63,6 +63,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0199-binary-tree-right-side-view](https://github.com/AliRizaAynaci/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -76,6 +77,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0200-number-of-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/AliRizaAynaci/LeetCode/tree/master/0463-island-perimeter) |
 | [0490-the-maze](https://github.com/AliRizaAynaci/LeetCode/tree/master/0490-the-maze) |
@@ -94,6 +96,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0199-binary-tree-right-side-view](https://github.com/AliRizaAynaci/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -104,6 +107,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0133-clone-graph](https://github.com/AliRizaAynaci/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/AliRizaAynaci/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/0200-number-of-islands) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/AliRizaAynaci/LeetCode/tree/master/0463-island-perimeter) |
 | [0490-the-maze](https://github.com/AliRizaAynaci/LeetCode/tree/master/0490-the-maze) |
@@ -149,6 +153,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0076-minimum-window-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/AliRizaAynaci/LeetCode/tree/master/0133-clone-graph) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0762-find-anagram-mappings](https://github.com/AliRizaAynaci/LeetCode/tree/master/0762-find-anagram-mappings) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -179,6 +184,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | ------- |
 | [0164-maximum-gap](https://github.com/AliRizaAynaci/LeetCode/tree/master/0164-maximum-gap) |
 | [0280-wiggle-sort](https://github.com/AliRizaAynaci/LeetCode/tree/master/0280-wiggle-sort) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1019-squares-of-a-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/AliRizaAynaci/LeetCode/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/AliRizaAynaci/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
