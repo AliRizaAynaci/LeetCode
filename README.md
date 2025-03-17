@@ -21,6 +21,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0490-the-maze](https://github.com/AliRizaAynaci/LeetCode/tree/master/0490-the-maze) |
 | [0624-maximum-distance-in-arrays](https://github.com/AliRizaAynaci/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
+| [0762-find-anagram-mappings](https://github.com/AliRizaAynaci/LeetCode/tree/master/0762-find-anagram-mappings) |
 | [0854-making-a-large-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0854-making-a-large-island) |
 | [1019-squares-of-a-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/AliRizaAynaci/LeetCode/tree/master/1137-height-checker) |
@@ -149,6 +150,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0133-clone-graph](https://github.com/AliRizaAynaci/LeetCode/tree/master/0133-clone-graph) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0762-find-anagram-mappings](https://github.com/AliRizaAynaci/LeetCode/tree/master/0762-find-anagram-mappings) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Graph
