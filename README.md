@@ -59,6 +59,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AliRizaAynaci/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -70,6 +71,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AliRizaAynaci/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/AliRizaAynaci/LeetCode/tree/master/0133-clone-graph) |
@@ -92,6 +94,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AliRizaAynaci/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -229,4 +232,8 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0487-max-consecutive-ones-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/2884-length-of-the-longest-valid-substring) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
