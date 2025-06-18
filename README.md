@@ -158,6 +158,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0133-clone-graph](https://github.com/AliRizaAynaci/LeetCode/tree/master/0133-clone-graph) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0217-contains-duplicate](https://github.com/AliRizaAynaci/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0762-find-anagram-mappings](https://github.com/AliRizaAynaci/LeetCode/tree/master/0762-find-anagram-mappings) |
@@ -189,6 +190,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | ------- |
 | [0164-maximum-gap](https://github.com/AliRizaAynaci/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/AliRizaAynaci/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0242-valid-anagram) |
 | [0280-wiggle-sort](https://github.com/AliRizaAynaci/LeetCode/tree/master/0280-wiggle-sort) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1019-squares-of-a-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -209,6 +211,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | ------- |
 | [0076-minimum-window-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0242-valid-anagram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0242-valid-anagram) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0961-long-pressed-name](https://github.com/AliRizaAynaci/LeetCode/tree/master/0961-long-pressed-name) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
