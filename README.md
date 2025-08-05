@@ -7,6 +7,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/AliRizaAynaci/LeetCode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -203,6 +204,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0961-long-pressed-name](https://github.com/AliRizaAynaci/LeetCode/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/2551-apply-operations-to-an-array) |
