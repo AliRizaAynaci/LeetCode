@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // Time Comp -> O(n)
+    // Space Comp -> O(min(n, k))
     bool checkSubarraySum(vector<int>& nums, int k) {
         unordered_map<int, int> seen;
         seen[0] = -1;
