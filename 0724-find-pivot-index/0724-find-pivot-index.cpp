@@ -1,15 +1,16 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
-        // Time Comp -> O(n)
-        // Space Comp -> O(1)
-        int sum = 0;
-        for (int num : nums) sum += num;
+        // TIme Comp : O(n + n) -> O(n)
+        // Space Comp : O(1)
 
-        int sumLeft = 0;
+        int totalSum = 0;
+        for (int num : nums) totalSum += num;
+
+        int runningSum = 0;
         for (int i = 0; i < nums.size(); i++) {
-            if (2*sumLeft + nums[i] == sum) return i;
-            sumLeft += nums[i];
+            if (runningSum*2 + nums[i] == totalSum) return i;
+            runningSum += nums[i];
         }
         return -1;
         
