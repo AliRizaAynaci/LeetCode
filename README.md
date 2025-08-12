@@ -20,6 +20,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0217-contains-duplicate](https://github.com/AliRizaAynaci/LeetCode/tree/master/0217-contains-duplicate) |
 | [0280-wiggle-sort](https://github.com/AliRizaAynaci/LeetCode/tree/master/0280-wiggle-sort) |
 | [0303-range-sum-query-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0422-valid-word-square](https://github.com/AliRizaAynaci/LeetCode/tree/master/0422-valid-word-square) |
 | [0463-island-perimeter](https://github.com/AliRizaAynaci/LeetCode/tree/master/0463-island-perimeter) |
@@ -56,6 +57,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0064-minimum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AliRizaAynaci/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0422-valid-word-square](https://github.com/AliRizaAynaci/LeetCode/tree/master/0422-valid-word-square) |
 | [0463-island-perimeter](https://github.com/AliRizaAynaci/LeetCode/tree/master/0463-island-perimeter) |
@@ -266,10 +268,12 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AliRizaAynaci/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AliRizaAynaci/LeetCode/tree/master/0724-find-pivot-index) |
