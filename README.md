@@ -29,6 +29,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0523-continuous-subarray-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AliRizaAynaci/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/AliRizaAynaci/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/AliRizaAynaci/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/AliRizaAynaci/LeetCode/tree/master/0724-find-pivot-index) |
 | [0762-find-anagram-mappings](https://github.com/AliRizaAynaci/LeetCode/tree/master/0762-find-anagram-mappings) |
@@ -257,6 +258,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0487-max-consecutive-ones-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/AliRizaAynaci/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Binary Search Tree
