@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // Time Comp -> O(n)
+    // Space Comp -> O(1)
     double findMaxAverage(vector<int>& nums, int k) {
         int l = 0, r = 0;
         double sum = 0, maxSum = INT_MIN;
