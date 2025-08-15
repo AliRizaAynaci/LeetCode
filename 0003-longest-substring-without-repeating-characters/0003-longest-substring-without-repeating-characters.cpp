@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // Time Comp -> O(n)
+    // Space Comp -> O(n)
     int lengthOfLongestSubstring(string s) {
         int l = 0, r = 0, n = s.size();
         unordered_set<char> freq;
