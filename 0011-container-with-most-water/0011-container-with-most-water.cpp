@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // Time Complexity -> O(n)
+    // Space Complexity -> O(1)
     int maxArea(vector<int>& height) {
         int left = 0, right = height.size() - 1;
         int maxArea = INT_MIN;
