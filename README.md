@@ -11,6 +11,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0015-3sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/AliRizaAynaci/LeetCode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/AliRizaAynaci/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AliRizaAynaci/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -50,6 +51,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AliRizaAynaci/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/AliRizaAynaci/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AliRizaAynaci/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -297,4 +299,8 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0523-continuous-subarray-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AliRizaAynaci/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AliRizaAynaci/LeetCode/tree/master/0724-find-pivot-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AliRizaAynaci/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
