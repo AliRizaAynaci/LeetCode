@@ -3,19 +3,19 @@ public:
     // Time Comp -> O(n)
     // Space Comp -> O(n)
     int lengthOfLongestSubstring(string s) {
-        int l = 0, r = 0, n = s.size();
-        unordered_set<char> freq;
-        int maxSize = 0;
-        while (r < n) {
-            char ch = s[r];
+        int n = s.size();
+        int left = 0, maxLen = 0;
+        unordered_map<char, int> freq;
+        for (int right = 0; right < n; right++) {
+            char ch = s[right];
             while (freq.find(ch) != freq.end()) {
-                freq.erase(s[l]);
-                l++;
+                freq[s[left]]--;
+                if (freq[s[left]] == 0) freq.erase(s[left]);
+                left++;
             }
-            freq.insert(s[r]);
-            maxSize = max(maxSize, (r-l+1));
-            r++;
+            freq[s[right]]++;
+            maxLen = max(maxLen, (right - left + 1));
         }
-        return maxSize;
+        return maxLen;
     }
 };
