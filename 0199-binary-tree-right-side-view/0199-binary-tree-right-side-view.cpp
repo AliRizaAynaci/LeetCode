@@ -12,12 +12,18 @@
 class Solution {
 public:
     // Time Comp : O(N)
+    // Every node is visited once so time comp is O(N)
+    
     // Space Comp : O(N)
+    // The maximum space for the queue is limited by the maximum width (w) of the tree,
+    //      which is N/2 in the worst case (a complete tree), leading to O(N) space
+    // max space for res array is limited by max depth (h), the worst case is 
+    //     an unbalanced tree the h equals to N
     vector<int> rightSideView(TreeNode* root) {
         vector<int> res;
         if (!root) return res;
         queue<TreeNode*> q;
-        q.push(root);
+        q.push(root); 
         while (!q.empty()) {
             int levelSize = q.size();
             for (int i = 0; i < levelSize; i++) {
