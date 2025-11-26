@@ -13,14 +13,17 @@ class Solution {
 public:
     int maxDepth(TreeNode* root) {
         if (root == nullptr) return 0;
-        int maxDepth = 1;
+        int maxDepth = 0;
         queue<TreeNode*> q;
         q.push(root);
         while (!q.empty()) {
-            TreeNode* node = q.front(); q.pop();
-            if (node->left) q.push(node->left);
-            if (node->right) q.push(node->right);
-            if (node->left || node->right) maxDepth++;
+            int levelSize = q.size();
+            maxDepth++;
+            for (int i = 0; i < levelSize; i++) {
+                TreeNode* node = q.front(); q.pop();
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);                
+            }
         }
         return maxDepth;
     }
