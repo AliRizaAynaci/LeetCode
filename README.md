@@ -83,6 +83,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AliRizaAynaci/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -95,6 +96,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AliRizaAynaci/LeetCode/tree/master/0130-surrounded-regions) |
@@ -118,6 +120,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AliRizaAynaci/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -317,6 +320,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
