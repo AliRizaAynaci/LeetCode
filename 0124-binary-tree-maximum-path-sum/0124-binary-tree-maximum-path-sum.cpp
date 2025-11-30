@@ -10,19 +10,19 @@
  * };
  */
 class Solution {
-private:
-    int postorder(TreeNode* node, int& maxVal) {
-        if (node == nullptr) return 0;
-        int left = max(postorder(node->left, maxVal), 0);
-        int right = max(postorder(node->right, maxVal), 0);
-        maxVal = max(maxVal, left + right + node->val);
+public:
+    int dfs(TreeNode* node, int *max_value) {
+        if (!node) return 0;
+        int left = max(dfs(node->left, max_value), 0);
+        int right = max(dfs(node->right, max_value), 0);
+        *max_value = max(*max_value, left + right + node->val);
         return max(left, right) + node->val;
     }
 
-public:
     int maxPathSum(TreeNode* root) {
-        int maxVal = INT_MIN;
-        postorder(root, maxVal);
-        return maxVal;
+        if (!root) return 0;
+        int max_value = INT_MIN;
+        dfs(root, &max_value);
+        return max_value;
     }
 };
