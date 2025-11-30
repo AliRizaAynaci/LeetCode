@@ -15,6 +15,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0053-maximum-subarray](https://github.com/AliRizaAynaci/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AliRizaAynaci/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -327,6 +328,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -341,4 +343,8 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
