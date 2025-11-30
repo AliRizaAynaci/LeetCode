@@ -94,6 +94,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -117,6 +118,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/AliRizaAynaci/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0854-making-a-large-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0854-making-a-large-island) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -134,6 +136,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -153,6 +156,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/AliRizaAynaci/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0854-making-a-large-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0854-making-a-large-island) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AliRizaAynaci/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Linked List
@@ -204,6 +208,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0560-subarray-sum-equals-k](https://github.com/AliRizaAynaci/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AliRizaAynaci/LeetCode/tree/master/0567-permutation-in-string) |
 | [0762-find-anagram-mappings](https://github.com/AliRizaAynaci/LeetCode/tree/master/0762-find-anagram-mappings) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Graph
@@ -238,6 +243,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0242-valid-anagram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0242-valid-anagram) |
 | [0280-wiggle-sort](https://github.com/AliRizaAynaci/LeetCode/tree/master/0280-wiggle-sort) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1019-squares-of-a-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/AliRizaAynaci/LeetCode/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/AliRizaAynaci/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
