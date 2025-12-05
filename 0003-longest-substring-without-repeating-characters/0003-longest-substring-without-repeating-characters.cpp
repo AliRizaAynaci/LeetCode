@@ -1,21 +1,18 @@
 class Solution {
 public:
-    // Time Comp -> O(n)
-    // Space Comp -> O(n)
     int lengthOfLongestSubstring(string s) {
-        int n = s.size();
-        int left = 0, maxLen = 0;
-        unordered_map<char, int> freq;
-        for (int right = 0; right < n; right++) {
+        if (s.size() == 0) return 0;
+        unordered_map<char, int> seen;
+        int max_size = INT_MIN;
+        int left = 0;
+        for (int right = 0; right < s.size(); right++) {
             char ch = s[right];
-            while (freq.find(ch) != freq.end()) {
-                freq[s[left]]--;
-                if (freq[s[left]] == 0) freq.erase(s[left]);
-                left++;
+            if (seen.find(ch) != seen.end()) {
+                left = max(left, seen[ch]+1);
             }
-            freq[s[right]]++;
-            maxLen = max(maxLen, (right - left + 1));
+            seen[ch] = right;
+            max_size = max(max_size, (right - left + 1));
         }
-        return maxLen;
+        return max_size;
     }
 };
