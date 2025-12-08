@@ -49,6 +49,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AliRizaAynaci/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/2884-length-of-the-longest-valid-substring) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AliRizaAynaci/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -292,6 +293,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Sliding Window
 |  |
