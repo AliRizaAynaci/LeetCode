@@ -47,6 +47,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/AliRizaAynaci/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1331-path-with-maximum-gold](https://github.com/AliRizaAynaci/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [1470-shuffle-the-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AliRizaAynaci/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1929-concatenation-of-array) |
