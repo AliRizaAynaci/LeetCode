@@ -1,30 +1,37 @@
 class Solution {
-    public String longestPalindrome(String s) {
-        if (s == null || s.length() < 1) return "";
-        
-        int start = 0, end = 0;
-        
-        for (int i = 0; i < s.length(); i++) {
-            // Senin expand mantığın burada devreye giriyor
-            // Ama array döndürmek yerine direkt uzunluk alabiliriz
-            int len1 = expandAroundCenter(s, i, i);
-            int len2 = expandAroundCenter(s, i, i + 1);
-            int len = Math.max(len1, len2);
-            
-            if (len > end - start) {
-                start = i - (len - 1) / 2;
-                end = i + len / 2;
-            }
+    private static int[] expand(String s, int mid) {
+        int l = mid-1, r = mid+1;
+        while (l > 0 && s.charAt(l) == s.charAt(mid)) {
+            l--;
         }
-        
-        return s.substring(start, end + 1);
+
+        while (r < s.length() && s.charAt(r) == s.charAt(mid)) {
+            r++;
+        }
+
+        while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
+            l--;
+            r++;
+        }
+
+        return new int[] {l+1, r-1};
     }
 
-    private int expandAroundCenter(String s, int left, int right) {
-        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
-            left--;
-            right++;
+    public static String longestPalindrome(String s) {
+        if (s.length() <= 1) return s;
+        int n = s.length();
+        String longestPalindrome = "";
+        int longestLength = 0;
+        for (int i = 0; i < n; i++) {
+            int[] indexes = expand(s, i);
+            int left = indexes[0];
+            int right = indexes[1];
+            int currentLength = (right - left) + 1;
+            if (currentLength > longestLength) {
+                longestLength = currentLength;
+                longestPalindrome = s.substring(left, right+1);
+            }
         }
-        return right - left - 1;
+        return longestPalindrome;
     }
 }
