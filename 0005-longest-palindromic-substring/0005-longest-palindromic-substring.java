@@ -1,48 +1,30 @@
 class Solution {
     public String longestPalindrome(String s) {
-        
         if (s == null || s.length() < 1) return "";
-        int left = 0;
-        int right = 0;
-        //int maxSubPalin = 0;
-        String result = "";
-        for(int i = 0;i< s.length();i++){
-
-            // for Odd length of string
-            left = i;
-            right = i;
-            while(left >=0 && right <s.length()){
-                if(s.charAt(left) != s.charAt(right))
-                break;
-
-                if(s.charAt(left) == s.charAt(right))
-                {
-                   if(result.length()< right-left+1){
-                     result = s.substring(left,right+1);
-                   }
-                }
-                left--;
-                right++;
+        
+        int start = 0, end = 0;
+        
+        for (int i = 0; i < s.length(); i++) {
+            // Senin expand mantığın burada devreye giriyor
+            // Ama array döndürmek yerine direkt uzunluk alabiliriz
+            int len1 = expandAroundCenter(s, i, i);
+            int len2 = expandAroundCenter(s, i, i + 1);
+            int len = Math.max(len1, len2);
+            
+            if (len > end - start) {
+                start = i - (len - 1) / 2;
+                end = i + len / 2;
             }
-
-            // for Even length of string 
-            left = i;
-            right = i+1;   
-
-            while(left >=0 && right <s.length()){
-                if(s.charAt(left) != s.charAt(right))
-                break;
-
-                if(s.charAt(left) == s.charAt(right))
-                {
-                   if(result.length()< right-left+1){
-                     result = s.substring(left,right+1);
-                   }
-                }
-                left--;
-                right++;
-            }    
         }
-        return result;
+        
+        return s.substring(start, end + 1);
+    }
+
+    private int expandAroundCenter(String s, int left, int right) {
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            left--;
+            right++;
+        }
+        return right - left - 1;
     }
 }
