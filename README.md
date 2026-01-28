@@ -29,6 +29,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0217-contains-duplicate](https://github.com/AliRizaAynaci/LeetCode/tree/master/0217-contains-duplicate) |
 | [0280-wiggle-sort](https://github.com/AliRizaAynaci/LeetCode/tree/master/0280-wiggle-sort) |
 | [0287-find-the-duplicate-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/AliRizaAynaci/LeetCode/tree/master/0322-coin-change) |
@@ -73,6 +74,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AliRizaAynaci/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AliRizaAynaci/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0487-max-consecutive-ones-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
@@ -332,6 +334,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AliRizaAynaci/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Design
 |  |
 | ------- |
