@@ -20,6 +20,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/AliRizaAynaci/LeetCode/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AliRizaAynaci/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/AliRizaAynaci/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AliRizaAynaci/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -73,6 +74,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AliRizaAynaci/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AliRizaAynaci/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0213-house-robber-ii) |
@@ -218,6 +220,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0041-first-missing-positive](https://github.com/AliRizaAynaci/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/AliRizaAynaci/LeetCode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AliRizaAynaci/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0217-contains-duplicate](https://github.com/AliRizaAynaci/LeetCode/tree/master/0217-contains-duplicate) |
@@ -246,6 +249,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AliRizaAynaci/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Greedy
 |  |
@@ -296,6 +300,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0005-longest-palindromic-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0242-valid-anagram) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -376,6 +381,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
 ## Monotonic Stack
 |  |
 | ------- |
