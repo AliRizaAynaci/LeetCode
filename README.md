@@ -36,6 +36,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0304-range-sum-query-2d-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/AliRizaAynaci/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0422-valid-word-square](https://github.com/AliRizaAynaci/LeetCode/tree/master/0422-valid-word-square) |
 | [0463-island-perimeter](https://github.com/AliRizaAynaci/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/AliRizaAynaci/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -82,6 +83,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0300-longest-increasing-subsequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AliRizaAynaci/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0647-palindromic-substrings](https://github.com/AliRizaAynaci/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/AliRizaAynaci/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
