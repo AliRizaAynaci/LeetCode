@@ -15,16 +15,16 @@ class Solution {
         return dp[len1][len2];
     }
 
-    private static int dfs(int[][] dp, char[] s1, char[] s2, int idx1, int idx2) {
-        if (idx1 < 0 || idx2 < 0) return 0;
-        if (dp[idx1][idx2] != -1) return dp[idx1][idx2];
-        if (s1[idx1] == s2[idx2]) {
-            dp[idx1][idx2] = 1 + dfs(dp, s1, s2, idx1-1,idx2-1);
-            return dp[idx1][idx2];
-        }
-        dp[idx1][idx2] = Math.max(dfs(dp, s1, s2, idx1-1, idx2), dfs(dp, s1, s2, idx1, idx2-1));
-        return dp[idx1][idx2];
-    }
+    // private static int dfs(int[][] dp, char[] s1, char[] s2, int idx1, int idx2) {
+    //     if (idx1 < 0 || idx2 < 0) return 0;
+    //     if (dp[idx1][idx2] != -1) return dp[idx1][idx2];
+    //     if (s1[idx1] == s2[idx2]) {
+    //         dp[idx1][idx2] = 1 + dfs(dp, s1, s2, idx1-1,idx2-1);
+    //         return dp[idx1][idx2];
+    //     }
+    //     dp[idx1][idx2] = Math.max(dfs(dp, s1, s2, idx1-1, idx2), dfs(dp, s1, s2, idx1, idx2-1));
+    //     return dp[idx1][idx2];
+    // }
 
     public static int longestCommonSubsequence(String text1, String text2) {
         // int len1 = text1.length(), len2 = text2.length();
