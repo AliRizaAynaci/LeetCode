@@ -87,6 +87,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0487-max-consecutive-ones-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0647-palindromic-substrings](https://github.com/AliRizaAynaci/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/AliRizaAynaci/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -313,6 +314,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0647-palindromic-substrings](https://github.com/AliRizaAynaci/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0961-long-pressed-name](https://github.com/AliRizaAynaci/LeetCode/tree/master/0961-long-pressed-name) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1143-longest-common-subsequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Bucket Sort
 |  |
