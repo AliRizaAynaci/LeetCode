@@ -13,6 +13,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/AliRizaAynaci/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/AliRizaAynaci/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/AliRizaAynaci/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AliRizaAynaci/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -224,6 +225,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0001-two-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/AliRizaAynaci/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/AliRizaAynaci/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/AliRizaAynaci/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
@@ -269,6 +271,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/AliRizaAynaci/LeetCode/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/AliRizaAynaci/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/AliRizaAynaci/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0242-valid-anagram) |
@@ -306,6 +309,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0003-longest-substring-without-repeating-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/AliRizaAynaci/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/AliRizaAynaci/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
