@@ -1,4 +1,5 @@
 class Solution {
+    // Time: O(n), Space: O(n)
     public static int[] maxSlidingWindow(int[] nums, int k) {
         int n = nums.length;
         if (n < k) {
