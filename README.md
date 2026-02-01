@@ -123,6 +123,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -146,6 +147,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/AliRizaAynaci/LeetCode/tree/master/0463-island-perimeter) |
 | [0490-the-maze](https://github.com/AliRizaAynaci/LeetCode/tree/master/0490-the-maze) |
+| [0572-subtree-of-another-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/AliRizaAynaci/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -169,6 +171,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -424,4 +427,12 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0239-sliding-window-maximum) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
