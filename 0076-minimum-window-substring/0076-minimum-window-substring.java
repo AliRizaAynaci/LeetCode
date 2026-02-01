@@ -9,8 +9,8 @@ class Solution {
         char[] sChars = s.toCharArray();
         int minLeft = 0, minLen = Integer.MAX_VALUE;
         int required = tMap.size(), have = 0;
-        int left = 0, right;
-        for (right = 0; right < sChars.length; right++) {
+        int left = 0;
+        for (int right = 0; right < sChars.length; right++) {
             char ch = sChars[right];
             sMap.put(ch, sMap.getOrDefault(ch, 0) + 1);
             if (tMap.containsKey(ch) && sMap.get(ch).equals(tMap.get(ch))) {
