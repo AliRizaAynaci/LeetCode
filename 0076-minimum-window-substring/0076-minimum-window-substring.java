@@ -6,17 +6,18 @@ class Solution {
         for (Character ch : t.toCharArray()) {
             tMap.put(ch, tMap.getOrDefault(ch, 0) + 1);
         }
+        char[] sChars = s.toCharArray();
         int minLeft = 0, minLen = Integer.MAX_VALUE;
         int required = tMap.size(), have = 0;
         int left = 0, right;
-        for (right = 0; right < s.length(); right++) {
-            char ch = s.charAt(right);
+        for (right = 0; right < sChars.length; right++) {
+            char ch = sChars[right];
             sMap.put(ch, sMap.getOrDefault(ch, 0) + 1);
             if (tMap.containsKey(ch) && sMap.get(ch).equals(tMap.get(ch))) {
                 have++;
             }
             while (have == required) {
-                char leftChar = s.charAt(left);
+                char leftChar = sChars[left];
                 sMap.put(leftChar, sMap.get(leftChar)-1);
                 if (right - left + 1 < minLen) {
                     minLen = right - left + 1;
@@ -28,6 +29,6 @@ class Solution {
                 left++;
             }
         }
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(minLeft, minLeft + minLen);    
+        return minLen == Integer.MAX_VALUE ? "" : s.substring(minLeft, minLeft + minLen);
     }
 }
