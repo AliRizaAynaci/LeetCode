@@ -194,6 +194,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/AliRizaAynaci/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -295,6 +296,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0005-longest-palindromic-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AliRizaAynaci/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AliRizaAynaci/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/AliRizaAynaci/LeetCode/tree/master/0141-linked-list-cycle) |
