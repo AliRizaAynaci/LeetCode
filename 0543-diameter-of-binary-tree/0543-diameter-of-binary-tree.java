@@ -14,7 +14,9 @@
  * }
  */
 class Solution {
+
     private static int maxDiameter;
+    
     private static int dfs(TreeNode root) {
         if (root == null) return 0;
         int left = dfs(root.left);
