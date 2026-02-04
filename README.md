@@ -121,6 +121,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AliRizaAynaci/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AliRizaAynaci/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
@@ -145,6 +146,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0199-binary-tree-right-side-view](https://github.com/AliRizaAynaci/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AliRizaAynaci/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
@@ -175,6 +177,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AliRizaAynaci/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AliRizaAynaci/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
@@ -380,6 +383,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0098-validate-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AliRizaAynaci/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AliRizaAynaci/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0300-longest-increasing-subsequence) |
