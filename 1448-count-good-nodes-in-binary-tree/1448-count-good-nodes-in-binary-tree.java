@@ -14,19 +14,19 @@
  * }
  */
 class Solution {
-    private static int dfs(TreeNode root, int largest, int[] count) {
+    private static int dfs(TreeNode root, int largest) {
         if (root == null) return 0;
+        int count = 0;
         if (root.val >= largest) {
-            count[0] = 1;
+            count = 1;
             largest = root.val;
-        } else count[0] = 0;
-        count[0] += dfs(root.left, largest, count);
-        count[0] += dfs(root.right, largest, count);
-        return count[0];
+        }
+        count += dfs(root.left, largest);
+        count += dfs(root.right, largest);
+        return count;
     }
 
     public static int goodNodes(TreeNode root) {
-        int[] count = new int[1];
-        return dfs(root, root.val, count);
+        return dfs(root, root.val);
     }
 }
