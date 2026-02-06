@@ -124,6 +124,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AliRizaAynaci/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -150,6 +151,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AliRizaAynaci/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -182,6 +184,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AliRizaAynaci/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -202,6 +205,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0199-binary-tree-right-side-view](https://github.com/AliRizaAynaci/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/AliRizaAynaci/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -345,6 +349,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/AliRizaAynaci/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/AliRizaAynaci/LeetCode/tree/master/0567-permutation-in-string) |
@@ -394,6 +399,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
