@@ -10,6 +10,7 @@
 public class Codec {
 
     // Encodes a tree to a single string.
+    // Encodes a tree to a single string.
     public static String serialize(TreeNode root) {
         if (root == null) return "";
         StringBuilder s = new StringBuilder();
@@ -19,18 +20,10 @@ public class Codec {
             TreeNode node = q.poll();
             if (node == null) {
                 s.append("N,");
-                continue;
-            }
-            s.append(node.val).append(",");
-            if (node.left != null) {
+            } else {
+                s.append(node.val).append(",");
                 q.offer(node.left);
-            } else {
-                q.offer(null);
-            }
-            if (node.right != null) {
                 q.offer(node.right);
-            } else {
-                q.offer(null);
             }
         }
         return s.toString();
