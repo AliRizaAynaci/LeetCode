@@ -1,15 +1,20 @@
 class Solution {
-    public static boolean isValid(String s) {
+    public boolean isValid(String s) {
+        
         Stack<Character> st = new Stack<>();
-        char[] parentheses = s.toCharArray();
-        for (char ch : parentheses) {
-            if (ch == '(' || ch == '[' || ch == '{') st.push(ch);
-            if ((ch == ')' && !st.isEmpty() && st.pop() != '(') ||
-                    (ch == ']' && !st.isEmpty() && st.pop() != '[') ||
-                    (ch == '}' && !st.isEmpty() && st.pop() != '{')) {
-                return false;
+
+        for (char ch : s.toCharArray()) {
+            if (ch == '(' || ch == '[' || ch == '{') {
+                st.push(ch);
+            } else {
+                if (st.isEmpty() || ch == ')' && st.pop() != '(' 
+                    || ch == ']' && st.pop() != '['
+                    || ch == '}' && st.pop() != '{') {
+                        return false;
+                 }
             }
         }
-        return true;
+        
+        return st.isEmpty();
     }
 }
