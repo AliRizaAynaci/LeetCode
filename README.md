@@ -24,6 +24,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0128-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AliRizaAynaci/LeetCode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AliRizaAynaci/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AliRizaAynaci/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/AliRizaAynaci/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AliRizaAynaci/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -252,6 +253,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | ------- |
 | [0062-unique-paths](https://github.com/AliRizaAynaci/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AliRizaAynaci/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AliRizaAynaci/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1069-confusing-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/1069-confusing-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AliRizaAynaci/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -432,6 +434,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0042-trapping-rain-water](https://github.com/AliRizaAynaci/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AliRizaAynaci/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AliRizaAynaci/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/AliRizaAynaci/LeetCode/tree/master/0739-daily-temperatures) |
