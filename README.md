@@ -21,6 +21,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AliRizaAynaci/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AliRizaAynaci/LeetCode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AliRizaAynaci/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -265,6 +266,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0041-first-missing-positive](https://github.com/AliRizaAynaci/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AliRizaAynaci/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/AliRizaAynaci/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AliRizaAynaci/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -468,6 +470,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
