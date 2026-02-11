@@ -53,6 +53,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0643-maximum-average-subarray-i](https://github.com/AliRizaAynaci/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/AliRizaAynaci/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/AliRizaAynaci/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/AliRizaAynaci/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0762-find-anagram-mappings](https://github.com/AliRizaAynaci/LeetCode/tree/master/0762-find-anagram-mappings) |
 | [0854-making-a-large-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0854-making-a-large-island) |
@@ -429,6 +430,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0084-largest-rectangle-in-histogram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/AliRizaAynaci/LeetCode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -447,6 +449,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AliRizaAynaci/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/AliRizaAynaci/LeetCode/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
