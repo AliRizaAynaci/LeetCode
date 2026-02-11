@@ -351,6 +351,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0003-longest-substring-without-repeating-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AliRizaAynaci/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AliRizaAynaci/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/AliRizaAynaci/LeetCode/tree/master/0091-decode-ways) |
@@ -427,6 +428,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AliRizaAynaci/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AliRizaAynaci/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AliRizaAynaci/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
