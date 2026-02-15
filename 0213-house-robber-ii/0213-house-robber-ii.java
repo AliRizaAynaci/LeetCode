@@ -1,21 +1,35 @@
 class Solution {
-    private static int helper(int[] nums, int start, int end) {
-        int len = end - start + 1;
-        if (len == 0 ) return 0;
-        if (len == 1) return nums[start];
-        int[] dp = new int[len];
-        dp[0] = nums[start];
-        dp[1] = Math.max(nums[start], nums[start+1]);
-        for (int i = 2; i < len; i++) {
-            dp[i] = Math.max(dp[i-1], nums[start+i] + dp[i-2]);
+    int[] memo;
+
+    // private int dfs(int[] nums, int i, int n) {
+    //     if (i >= n) return 0;
+    //     if (memo[i] != -1) return memo[i];
+    //     int taken = nums[i] + dfs(nums, i+2, n);
+    //     int skip = dfs(nums, i+1, n);
+    //     memo[i] = Math.max(taken, skip);
+    //     return memo[i];
+    // }
+
+    private int helper(int[] nums, int i, int n) {
+        if (i >= n) return 0;
+        int prev1 = 0, prev2 = 0;
+        for (int j = i; j < n; j++) {
+            int curr = Math.max(nums[j] + prev1, prev2);
+            prev1 = prev2;
+            prev2 = curr;
         }
-        return dp[len-1];
+        return prev2;
     }
 
-    public static int rob(int[] nums) {
+    public int rob(int[] nums) {
         int n = nums.length;
-        if (n == 0) return 0;
         if (n == 1) return nums[0];
-        return Math.max(helper(nums, 0, n-2), helper(nums, 1, n-1));
+        memo = new int[n];
+        Arrays.fill(memo, -1);
+        // int leftSub = dfs(nums, 0, n-1);
+        // Arrays.fill(memo, -1);
+        // int rightSub = dfs(nums, 1, n);
+        // return Math.max(leftSub, rightSub);
+        return Math.max(helper(nums, 0, n-1), helper(nums, 1, n));
     }
 }
