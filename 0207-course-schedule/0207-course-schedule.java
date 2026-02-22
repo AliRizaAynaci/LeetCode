@@ -37,15 +37,12 @@ class Solution {
         int n = prerequisites.length;
         if (n == 0) return true;
         int[] indegrees = new int[numCourses];
-        for (int[] courses : prerequisites) {
-            int i = courses[0];
-            indegrees[i]++;
-        }
         List<List<Integer>> adjList = new ArrayList<>();
         for (int i = 0; i < numCourses; i++) {
             adjList.add(new ArrayList<>());
         }
         for (int[] courses : prerequisites) {
+            indegrees[courses[0]]++;
             adjList.get(courses[1]).add(courses[0]);
         }
         Queue<Integer> q = new LinkedList<>();
