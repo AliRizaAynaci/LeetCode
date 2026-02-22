@@ -7,11 +7,11 @@ class Solution {
             int i = courses[0];
             indegrees[i]++;
         }
-        HashMap<Integer, List<Integer>> adjList = new HashMap<>();
+        List<List<Integer>> adjList = new ArrayList<>();
+        for (int i = 0; i < numCourses; i++) {
+            adjList.add(new ArrayList<>());
+        }
         for (int[] courses : prerequisites) {
-            if (!adjList.containsKey(courses[1])) {
-                adjList.put(courses[1], new ArrayList<>());
-            }
             adjList.get(courses[1]).add(courses[0]);
         }
         Queue<Integer> q = new LinkedList<>();
@@ -24,8 +24,7 @@ class Solution {
         while (!q.isEmpty()) {
             int course = q.poll();
             takenCount++;
-            List<Integer> neighbours = adjList.getOrDefault(course, new ArrayList<>());
-            for (int v : neighbours) {
+            for (int v : adjList.get(course)) {
                 indegrees[v]--;
                 if (indegrees[v] == 0) {
                     q.offer(v);
