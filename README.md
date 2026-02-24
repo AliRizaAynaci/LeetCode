@@ -141,6 +141,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0543-diameter-of-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AliRizaAynaci/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -204,6 +205,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0543-diameter-of-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AliRizaAynaci/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -420,6 +422,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AliRizaAynaci/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
 | ------- |
@@ -427,6 +430,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AliRizaAynaci/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AliRizaAynaci/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -478,6 +482,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AliRizaAynaci/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -504,4 +509,8 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0207-course-schedule](https://github.com/AliRizaAynaci/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AliRizaAynaci/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
