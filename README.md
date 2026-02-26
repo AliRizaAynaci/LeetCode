@@ -175,6 +175,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0543-diameter-of-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/AliRizaAynaci/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/AliRizaAynaci/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0854-making-a-large-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0854-making-a-large-island) |
@@ -231,6 +232,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0463-island-perimeter](https://github.com/AliRizaAynaci/LeetCode/tree/master/0463-island-perimeter) |
 | [0490-the-maze](https://github.com/AliRizaAynaci/LeetCode/tree/master/0490-the-maze) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/AliRizaAynaci/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/AliRizaAynaci/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0854-making-a-large-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0854-making-a-large-island) |
@@ -501,6 +503,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0128-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AliRizaAynaci/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/AliRizaAynaci/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
@@ -509,6 +512,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0207-course-schedule](https://github.com/AliRizaAynaci/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0684-redundant-connection](https://github.com/AliRizaAynaci/LeetCode/tree/master/0684-redundant-connection) |
 ## Data Stream
 |  |
 | ------- |
