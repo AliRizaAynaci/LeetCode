@@ -1,5 +1,6 @@
 class Solution {
-    private int[] topologicalSort(int[][] edges) {
+
+    public int[] findRedundantConnection(int[][] edges) {
         int n = edges.length;
         List<List<Integer>> adjList = new ArrayList<>();
         int[] indegrees = new int[n + 1];
@@ -30,12 +31,6 @@ class Solution {
                 return new int[] {src, nei};
             }
         }
-        return new int[0];
-    }
-
-
-
-    public int[] findRedundantConnection(int[][] edges) {
-        return topologicalSort(edges);
+        return new int[0];    
     }
 }
