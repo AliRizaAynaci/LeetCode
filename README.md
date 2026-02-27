@@ -24,6 +24,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AliRizaAynaci/LeetCode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AliRizaAynaci/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AliRizaAynaci/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -464,6 +465,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
