@@ -447,6 +447,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AliRizaAynaci/LeetCode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/AliRizaAynaci/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
@@ -466,6 +467,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/AliRizaAynaci/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
