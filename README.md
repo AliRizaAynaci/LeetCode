@@ -473,6 +473,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0191-number-of-1-bits](https://github.com/AliRizaAynaci/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AliRizaAynaci/LeetCode/tree/master/0338-counting-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Trie
 |  |
 | ------- |
