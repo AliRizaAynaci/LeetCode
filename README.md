@@ -95,6 +95,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0300-longest-increasing-subsequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AliRizaAynaci/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/AliRizaAynaci/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0518-coin-change-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0518-coin-change-ii) |
@@ -469,6 +470,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0136-single-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AliRizaAynaci/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/AliRizaAynaci/LeetCode/tree/master/0338-counting-bits) |
 ## Trie
 |  |
 | ------- |
