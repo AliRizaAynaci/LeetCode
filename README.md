@@ -248,6 +248,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/AliRizaAynaci/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Backtracking
@@ -464,6 +465,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
