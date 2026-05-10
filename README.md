@@ -103,6 +103,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0647-palindromic-substrings](https://github.com/AliRizaAynaci/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/AliRizaAynaci/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -148,6 +149,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0703-kth-largest-element-in-a-stream](https://github.com/AliRizaAynaci/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -185,6 +187,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0854-making-a-large-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0854-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -214,6 +217,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0703-kth-largest-element-in-a-stream](https://github.com/AliRizaAynaci/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
