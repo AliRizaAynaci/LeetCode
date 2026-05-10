@@ -9,29 +9,25 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+#define pb(x) push_back(x)
 class Solution {
 public:
-    // Time Comp: O(N)
-    // Space Comp: O(N) (O(w))
     vector<vector<int>> levelOrder(TreeNode* root) {
-        
-        vector<vector<int>> result;
-        if (!root) return result;
-
+        vector<vector<int>> res;
+        if (!root) return res;
         queue<TreeNode*> q;
         q.push(root);
-
         while (!q.empty()) {
-            int levelSize = q.size();
-            vector<int> nodes;
-            for (int i = 0; i < levelSize; i++) {
-                TreeNode* node = q.front(); q.pop();
-                nodes.push_back(node->val);
-                if (node->left != nullptr) q.push(node->left);
-                if (node->right != nullptr) q.push(node->right);
+            int size = q.size();
+            vector<int> level;
+            for (int i = 0; i < size; i++) {
+                TreeNode* curr = q.front(); q.pop();
+                if (curr->left) q.push(curr->left);
+                if (curr->right) q.push(curr->right);
+                level.pb(curr->val);
             }
-            result.push_back(nodes);
+            res.pb(level);
         }
-        return result;
+        return res;
     }
 };
