@@ -67,6 +67,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [1019-squares-of-a-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/AliRizaAynaci/LeetCode/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/AliRizaAynaci/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1306-jump-game-iii](https://github.com/AliRizaAynaci/LeetCode/tree/master/1306-jump-game-iii) |
 | [1331-path-with-maximum-gold](https://github.com/AliRizaAynaci/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1470-shuffle-the-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -189,6 +190,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0854-making-a-large-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0854-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AliRizaAynaci/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1306-jump-game-iii](https://github.com/AliRizaAynaci/LeetCode/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -250,6 +252,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0854-making-a-large-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0854-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AliRizaAynaci/LeetCode/tree/master/0994-rotting-oranges) |
+| [1306-jump-game-iii](https://github.com/AliRizaAynaci/LeetCode/tree/master/1306-jump-game-iii) |
 | [1380-number-of-closed-islands](https://github.com/AliRizaAynaci/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AliRizaAynaci/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AliRizaAynaci/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
