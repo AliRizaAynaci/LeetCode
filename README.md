@@ -16,6 +16,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0049-group-anagrams](https://github.com/AliRizaAynaci/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AliRizaAynaci/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AliRizaAynaci/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AliRizaAynaci/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -81,6 +82,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0005-longest-palindromic-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/AliRizaAynaci/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AliRizaAynaci/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AliRizaAynaci/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AliRizaAynaci/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/AliRizaAynaci/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AliRizaAynaci/LeetCode/tree/master/0070-climbing-stairs) |
@@ -334,6 +336,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AliRizaAynaci/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AliRizaAynaci/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AliRizaAynaci/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0280-wiggle-sort](https://github.com/AliRizaAynaci/LeetCode/tree/master/0280-wiggle-sort) |
 | [0624-maximum-distance-in-arrays](https://github.com/AliRizaAynaci/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
