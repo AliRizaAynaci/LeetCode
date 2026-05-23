@@ -58,6 +58,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0624-maximum-distance-in-arrays](https://github.com/AliRizaAynaci/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/AliRizaAynaci/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/AliRizaAynaci/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AliRizaAynaci/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AliRizaAynaci/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/AliRizaAynaci/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -447,6 +448,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0287-find-the-duplicate-number](https://github.com/AliRizaAynaci/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AliRizaAynaci/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0704-binary-search](https://github.com/AliRizaAynaci/LeetCode/tree/master/0704-binary-search) |
 ## Design
 |  |
 | ------- |
