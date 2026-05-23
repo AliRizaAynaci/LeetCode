@@ -372,6 +372,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AliRizaAynaci/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/AliRizaAynaci/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AliRizaAynaci/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AliRizaAynaci/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AliRizaAynaci/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -393,6 +394,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0049-group-anagrams](https://github.com/AliRizaAynaci/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AliRizaAynaci/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/AliRizaAynaci/LeetCode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/AliRizaAynaci/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/AliRizaAynaci/LeetCode/tree/master/0139-word-break) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/AliRizaAynaci/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0242-valid-anagram](https://github.com/AliRizaAynaci/LeetCode/tree/master/0242-valid-anagram) |
