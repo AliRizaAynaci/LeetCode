@@ -13,10 +13,8 @@ class Solution {
         if (head == null) return null;
         ListNode slow = head;
         ListNode fast = head;
-        int i = 0;
-        while (i < n && fast != null) {
+        for (int i = 0; i < n; i++) {
             fast = fast.next;
-            i++;
         }
         if (fast == null) return head.next;
         while (fast.next != null) {
