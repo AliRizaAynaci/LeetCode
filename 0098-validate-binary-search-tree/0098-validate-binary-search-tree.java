@@ -14,13 +14,12 @@
  * }
  */
 class Solution {
-    private static boolean isValid(TreeNode node, long minBoundary, long maxBoundary) {
-        if (node == null) return true;
-        if (node.val <= minBoundary || node.val >= maxBoundary) return false;
-        return isValid(node.left, minBoundary, node.val) && isValid(node.right, node.val, maxBoundary);
+    private boolean check(TreeNode root, long min, long max) {
+        if (root == null) return true;
+        if (root.val <= min || root.val >= max) return false;
+        return check(root.left, min, root.val) && check(root.right, root.val, max);
     }
-
-    public static boolean isValidBST(TreeNode root) {
-        return isValid(root, Long.MIN_VALUE, Long.MAX_VALUE);
+    public boolean isValidBST(TreeNode root) {
+        return check(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
 }
