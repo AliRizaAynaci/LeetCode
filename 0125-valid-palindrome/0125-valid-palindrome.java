@@ -1,18 +1,21 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        if (s.length() == 0 || s.length() == 1) return true;
-        int left = 0, right = s.length() - 1;
+        int n = s.length();
+        if (n == 1) return true;
+        int left = 0, right = n - 1;
         while (left <= right) {
-            char lch = s.charAt(left), rch = s.charAt(right);
-            if (!Character.isLetterOrDigit(lch)) {
+            char chLeft = s.charAt(left);
+            char chRight = s.charAt(right);
+            if (!Character.isLetterOrDigit(chLeft)) {
                 left++;
-            } else if (!Character.isLetterOrDigit(rch)) {
+            } else if (!Character.isLetterOrDigit(chRight)) {
                 right--;
             } else {
-                if (Character.toLowerCase(lch) != Character.toLowerCase(rch)) {
+                if (Character.toLowerCase(chLeft) != Character.toLowerCase(chRight)){
                     return false;
                 }
-                left++; right--;
+                left++;
+                right--;
             }
         }
         return true;
