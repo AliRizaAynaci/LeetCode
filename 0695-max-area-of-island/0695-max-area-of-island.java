@@ -1,27 +1,28 @@
 class Solution {
-    private static int calculateArea(int[][] grid, int i, int j, int m, int n) {
-        if (i < 0 || j < 0 || i >= m || j >= n || grid[i][j] != 1) return 0;
-        grid[i][j] = -1; // mark as visited
-        int left = calculateArea(grid, i, j-1, m, n);
-        int right = calculateArea(grid, i, j+1, m, n);
-        int up = calculateArea(grid, i-1, j, m, n);
-        int down = calculateArea(grid, i+1, j, m, n);
-        return left + right + up + down + 1;
+    private int dfs(int[][] grid, int i, int j, int m, int n) {
+        if (i < 0 || i >= m || j < 0 || j >= n || grid[i][j] != 1) {
+            return 0;
+        }
+        // mark as visited
+        grid[i][j] = -1;
+        int l = dfs(grid, i, j-1, m, n);
+        int r = dfs(grid, i, j+1, m, n);
+        int u = dfs(grid, i-1, j, m, n);
+        int d = dfs(grid, i+1, j, m, n);
+        return l + r + u + d + 1;
     }
 
-    public static int maxAreaOfIsland(int[][] grid) {
-        int m = grid.length;
-        if (m == 0) return 0;
-        int n = grid[0].length;
-        int largestArea = 0;
-        for (int i = 0; i<m; i++) {
+    public int maxAreaOfIsland(int[][] grid) {
+        int m = grid.length, n = grid[0].length;
+        int maxArea = 0;
+        for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 1) {
-                    int area = calculateArea(grid, i, j, m, n);
-                    largestArea = Math.max(largestArea, area);
+                    int currentArea = dfs(grid, i, j, m, n);
+                    maxArea = Math.max(maxArea, currentArea);
                 }
             }
         }
-        return largestArea;
+        return maxArea;
     }
 }
