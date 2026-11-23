@@ -65,6 +65,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0746-min-cost-climbing-stairs](https://github.com/AliRizaAynaci/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0762-find-anagram-mappings](https://github.com/AliRizaAynaci/LeetCode/tree/master/0762-find-anagram-mappings) |
 | [0854-making-a-large-island](https://github.com/AliRizaAynaci/LeetCode/tree/master/0854-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/AliRizaAynaci/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/AliRizaAynaci/LeetCode/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/AliRizaAynaci/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/AliRizaAynaci/LeetCode/tree/master/1137-height-checker) |
@@ -452,6 +453,7 @@ This repo is created for tracking the LeetCode process by using [LeetHub v2](htt
 | [0300-longest-increasing-subsequence](https://github.com/AliRizaAynaci/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AliRizaAynaci/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/AliRizaAynaci/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AliRizaAynaci/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Design
 |  |
 | ------- |
